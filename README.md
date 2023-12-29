@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kuusm Patel
+# 👋 Hi, I’m Kusum Patel
 
 <!---
 kuzum09/kuzum09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
