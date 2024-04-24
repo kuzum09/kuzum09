@@ -1,13 +1,19 @@
-# 👋 Hi, I’m Kusum Patel
+<h2 align="center">Hi 👋, I'm Kusum Patel</h2>
+<p align="center">a passionate Data Science and Artificial Intelligence Undergraduate from IIIT Naya Raipur, India.</p>
 
-<!---
-kuzum09/kuzum09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### 🔭 Currently, I'm working on exciting projects in the realm of data analytics, machine learning and cryptography
+
+#### 🌱 I'm continually expanding my skills in Data Science, Machine Learning, and Frontend Development.
+
+#### 👨‍💻 You can find more about me on my portfolio website: [Portfolio Website](https://yourportfolio.com)
+
+#### 📫 Feel free to reach out to me at kp922004@gmail.com
+
+#### ⚡ Fun fact: I believe I have a pretty good sense of humor!
+
+Connect with me:
+[LinkedIn](https://www.linkedin.com/in/kusum-patel/)
 
 
-
-
--  You can connect me with 📧  [kp922004@gmail.com](kp922004@@gmail.com)
-
-
+Languages and Tools:
+Python, R, TensorFlow, Keras, PyTorch, HTML5, CSS3, JavaScript, SQL, Git
