@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Kusum Patel</h2>
 <p align="center">a passionate Data Science and Artificial Intelligence Undergraduate from IIIT Naya Raipur, India.</p>
 
-#### 🔭 Currently, I'm working on exciting projects in the realm of data analytics, machine learning and cryptography
+#### 🔭 Currently, I'm working on exciting projects in the realm of data analytics, Steganography and cryptography
 
 #### 🌱 I'm continually expanding my skills in Data Science, Machine Learning, and Frontend Development.
 
