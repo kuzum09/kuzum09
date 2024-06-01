@@ -16,4 +16,5 @@ Connect with me:
 
 
 Languages and Tools:
-Python, R, TensorFlow, Keras, PyTorch, HTML5, CSS3, JavaScript, SQL, Git
+Python, R, TensorFlow, Keras, PyTorch, HTML5, CSS3, JavaScript, SQL, Git, React.js
+
