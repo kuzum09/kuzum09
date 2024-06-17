@@ -5,7 +5,7 @@
 
 #### 🌱 I'm continually expanding my skills in Data Science, Machine Learning, and Frontend Development.
 
-#### 👨‍💻 You can find more about me on my portfolio website: [Portfolio Website](https://kuzum09.github.io/kusum-portfolio/
+#### 👨‍💻 You can find more about me on my portfolio website: [Portfolio Website](https://kuzum09.github.io/kusum-portfolio/)
 /)
 
 #### 📫 Feel free to reach out to me at kp922004@gmail.com
