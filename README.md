@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kuzum09.github.io/kusum-portfolio/](https://kuzum09.github.io/kusum-portfolio/)
 
-- 📫 How to reach me **kp922004@gmial.com**
+- 📫 How to reach me **kp922004@gmail.com**
 
 - ⚡ Fun fact **I believe I have a pretty good sense of humor!**
 
