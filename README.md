@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Kusum Patel<br>a passionate Data Science and Artificial Intelligence Undergraduate from IIIT Naya Raipur, India.<br>🌱 I’m currently learning DSA, Data Science, Machine Learning, and Development.<br><br>👨‍💻 All of my projects are available at https://kuzum09.github.io/kusum-portfolio/<br><br>📫 How to reach me kp922004@gmail.com
+Hi 👋, I'm Kusum Patel<br>a passionate Data Science and Artificial Intelligence Undergraduate from IIIT Naya Raipur, India.<br>🌱 I’m currently learning DSA and Development.<br><br>👨‍💻 All of my projects are available at https://kuzum09.github.io/kusum-portfolio/<br><br>📫 How to reach me kp922004@gmail.com
 
 
 ## 🌐 Socials:
