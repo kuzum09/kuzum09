@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kp922004@gmail.com**
 
-- ⚡ Fun fact **I believe I have a pretty good sense of humor!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
